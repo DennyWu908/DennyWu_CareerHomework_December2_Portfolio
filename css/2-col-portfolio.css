@@ -21,3 +21,27 @@ body {
 .pagination {
   margin-bottom: 30px;
 }
+
+#triviaPic {
+	height: 57%;
+	width: 57%;
+	margin-left: 20%;
+}
+
+#projectsPic {
+	height: 80%;
+	width: 80%;
+	margin-left: 11%;
+}
+
+#gifPic {
+	height: 96%;
+	width: 96%;
+	margin-left: 2%;
+}
+
+#liriPic {
+	height: 47%;
+	width: 47%;
+	margin-left: 26%;
+}
